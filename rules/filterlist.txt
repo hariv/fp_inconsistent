@@ -1,0 +1,390 @@
+ua_device|$$|Mac|$$|device_memory|$$|-1.0|$$|block
+ua_device|$$|iPhone|$$|device_memory|$$|-1.0|$$|block
+ip_location|$$|Algeria/Alger|$$|timezone|$$|America/New York|$$|block
+ip_location|$$|Bangladesh/Sylhet|$$|timezone|$$|America/Los_Angeles|$$|block
+ip_location|$$|Bangladesh/Sylhet|$$|timezone|$$|America/Guatemala|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Asia/Jerusalem|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Asia/Shanghai|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Asia/Bangkok|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Asia/Colombo|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Asia/Calcutta|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Africa/Cairo|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Europe/Istanbul|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Asia/Karachi|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Europe/Berlin|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Europe/Moscow|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Europe/Sarajevo|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Europe/Rome|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Europe/London|$$|block
+ip_location|$$|United States of America/Texas|$$|timezone|$$|Pacific/Auckland|$$|block
+ip_location|$$|United States of America/Washington|$$|timezone|$$|Pacific/Auckland|$$|block
+ip_location|$$|United States of America/Washington|$$|timezone|$$|Asia/Bangkok|$$|block
+ip_location|$$|United States of America/Washington|$$|timezone|$$|Europe/Berlin|$$|block
+ip_location|$$|United States of America/Washington|$$|timezone|$$|Europe/London|$$|block
+ip_location|$$|United States of America/Washington|$$|timezone|$$|Africa/Cairo|$$|block
+ip_location|$$|United States of America/Washington|$$|timezone|$$|Europe/Moscow|$$|block
+ip_location|$$|United States of America/Washington|$$|timezone|$$|Africa/Casablanca|$$|block
+ip_location|$$|United States of America/Washington|$$|timezone|$$|Asia/Calcutta|$$|block
+ip_location|$$|United States of America/Washington|$$|timezone|$$|Europe/Rome|$$|block
+ip_location|$$|United States of America/Washington|$$|timezone|$$|Asia/Dhaka|$$|block
+ip_location|$$|United States of America/Washington|$$|timezone|$$|Asia/Dubai|$$|block
+ip_location|$$|United States of America/Washington|$$|timezone|$$|Asia/Shanghai|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|America/Los_Angeles|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Europe/London|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Atlantic/Reykjavik|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Europe/Moscow|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Pacific/Auckland|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Europe/Paris|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Etc/Unknown|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Europe/Bucharest|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Europe/Berlin|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Asia/Tehran|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Asia/Jerusalem|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Asia/Shanghai|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Europe/Kiev|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Asia/Kuala_Lumpur|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Europe/Minsk|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Asia/Karachi|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Europe/Warsaw|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Europe/Madrid|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Asia/Calcutta|$$|block
+ip_location|$$|United States of America/New York|$$|timezone|$$|Europe/Istanbul|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|America/Los_Angeles|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Europe/Moscow|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Pacific/Auckland|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Europe/Berlin|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Asia/Singapore|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Asia/Bangkok|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Australia/Sydney|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Europe/London|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Asia/Shanghai|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Europe/Istanbul|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Africa/Casablanca|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Europe/Paris|$$|block
+ip_location|$$|United States of America/Virginia|$$|timezone|$$|Asia/Calcutta|$$|block
+ip_location|$$|United States of America/Virginia|$$|timezone|$$|Africa/Cairo|$$|block
+ip_location|$$|United States of America/Virginia|$$|timezone|$$|Europe/Berlin|$$|block
+ip_location|$$|United States of America/Virginia|$$|timezone|$$|Asia/Shanghai|$$|block
+ip_location|$$|United States of America/Virginia|$$|timezone|$$|Europe/Moscow|$$|block
+ip_location|$$|United States of America/Virginia|$$|timezone|$$|Asia/Karachi|$$|block
+ip_location|$$|United States of America/Virginia|$$|timezone|$$|Europe/London|$$|block
+ip_location|$$|United States of America/Virginia|$$|timezone|$$|Asia/Jakarta|$$|block
+ip_location|$$|United States of America/Virginia|$$|timezone|$$|Asia/Bangkok|$$|block
+ip_location|$$|United States of America/Virginia|$$|timezone|$$|Europe/Paris|$$|block
+ip_location|$$|United States of America/Virginia|$$|timezone|$$|Asia/Colombo|$$|block
+ip_location|$$|United States of America/Virginia|$$|timezone|$$|Asia/Tehran|$$|block
+ip_location|$$|Australia/New South Wales|$$|timezone|$$|America/Los_Angeles|$$|block
+ip_location|$$|Canada/Ontario|$$|timezone|$$|Asia/Jerusalem|$$|block
+ip_location|$$|Canada/Ontario|$$|timezone|$$|Australia/Sydney|$$|block
+ip_location|$$|Canada/Ontario|$$|timezone|$$|Africa/Lagos|$$|block
+ip_location|$$|Canada/Ontario|$$|timezone|$$|Asia/Dubai|$$|block
+ua_device|$$|Mac|$$|hw_concurrency|$$|-1.0|$$|block
+ua_vendor|$$|Generic_Android|$$|vendor|$$|Apple Computer, Inc.|$$|block
+ua_vendor|$$|Android|$$|vendor|$$|Apple Computer, Inc.|$$|block
+ua_vendor|$$|Apple|$$|vendor|$$|None-vendor|$$|block
+ua_browser|$$|Safari|$$|ua_os|$$|Linux|$$|block
+ua_browser|$$|Safari|$$|ua_os|$$|Windows|$$|block
+ua_device|$$|Mac|$$|screen_resolution|$$|892x656|$$|block
+ua_device|$$|Mac|$$|screen_resolution|$$|656x1364|$$|block
+ua_device|$$|Mac|$$|screen_resolution|$$|915x686|$$|block
+ua_device|$$|iPhone|$$|screen_resolution|$$|960x2000|$$|block
+ua_device|$$|iPhone|$$|screen_resolution|$$|3840x1080|$$|block
+ua_device|$$|iPhone|$$|screen_resolution|$$|2000x2000|$$|block
+ua_device|$$|iPhone|$$|screen_resolution|$$|5120x1440|$$|block
+ua_device|$$|iPhone|$$|screen_resolution|$$|2560x1440|$$|block
+ua_device|$$|iPhone|$$|screen_resolution|$$|1920x1080|$$|block
+ua_device|$$|iPhone|$$|screen_resolution|$$|1080x1920|$$|block
+ua_device|$$|iPhone|$$|screen_resolution|$$|847x476|$$|block
+ua_device|$$|iPad|$$|screen_resolution|$$|1920x1080|$$|block
+ua_device|$$|iPad|$$|screen_resolution|$$|1080x1920|$$|block
+ua_device|$$|iPad|$$|screen_resolution|$$|847x476|$$|block
+ua_device|$$|iPad|$$|screen_resolution|$$|900x1600|$$|block
+ua_device|$$|Samsung SM-S906N|$$|screen_resolution|$$|1920x1080|$$|block
+ua_device|$$|Samsung SM-S906N|$$|screen_resolution|$$|1080x1920|$$|block
+ua_device|$$|Samsung SM-S906N|$$|screen_resolution|$$|847x476|$$|block
+ua_device|$$|M2006C3MG|$$|screen_resolution|$$|1920x1080|$$|block
+ua_device|$$|M2006C3MG|$$|screen_resolution|$$|1080x1920|$$|block
+ua_device|$$|M2006C3MG|$$|screen_resolution|$$|847x476|$$|block
+ua_device|$$|M2006C3MG|$$|screen_resolution|$$|800x360|$$|block
+ua_device|$$|iPhone|$$|touch_support|$$|""|$$|block
+ua_device|$$|iPhone|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|iPad|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|iPhone|$$|hw_concurrency|$$|3|$$|block
+ua_device|$$|iPhone|$$|hw_concurrency|$$|32|$$|block
+ua_device|$$|iPhone|$$|hw_concurrency|$$|56|$$|block
+ua_device|$$|iPhone|$$|hw_concurrency|$$|24|$$|block
+ua_device|$$|iPhone|$$|hw_concurrency|$$|44|$$|block
+ua_device|$$|iPhone|$$|hw_concurrency|$$|48|$$|block
+ua_device|$$|Pixel 2|$$|hw_concurrency|$$|32|$$|block
+ua_device|$$|Pixel 2|$$|hw_concurrency|$$|24|$$|block
+ua_device|$$|Generic Smartphone|$$|hw_concurrency|$$|32|$$|block
+ua_device|$$|iPad|$$|hw_concurrency|$$|3|$$|block
+ua_device|$$|iPad|$$|hw_concurrency|$$|32|$$|block
+ua_device|$$|Mac|$$|hw_concurrency|$$|42|$$|block
+ua_device|$$|XiaoMi Mi Pad5 Wi-Fi|$$|hw_concurrency|$$|1|$$|block
+ua_browser|$$|Safari|$$|ua_os|$$|Linux|$$|block
+ua_browser|$$|Samsung Internet|$$|ua_os|$$|Linux|$$|block
+ua_browser|$$|MiuiBrowser|$$|ua_os|$$|Linux|$$|block
+ua_browser|$$|Mobile Safari|$$|vendor|$$|Google Inc.|$$|block
+ua_browser|$$|Firefox|$$|vendor|$$|Google Inc.|$$|block
+ua_browser|$$|Mobile Safari|$$|platform|$$|Linux x86_64|$$|block
+ua_browser|$$|Mobile Safari|$$|platform|$$|Win32|$$|block
+ua_browser|$$|Chrome Mobile|$$|platform|$$|Linux x86_64|$$|block
+ua_browser|$$|Chrome Mobile|$$|platform|$$|MacIntel|$$|block
+ua_browser|$$|Chrome Mobile iOS|$$|platform|$$|Win32|$$|block
+ip_location|$$|France/Hauts-de-France|$$|timezone|$$|America/Los_Angeles|$$|block
+ip_location|$$|Germany/Sachsen|$$|timezone|$$|America/Los_Angeles|$$|block
+ip_location|$$|Singapore/Singapore|$$|timezone|$$|America/Los_Angeles|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Asia/Shanghai|$$|block
+ip_location|$$|United States of America/Virginia|$$|timezone|$$|Pacific/Auckland|$$|block
+platform|$$|Linux armv5tejl|$$|vendor|$$|Apple Computer, Inc.|$$|block
+platform|$$|Linux aarch64|$$|vendor|$$|Apple Computer, Inc.|$$|block
+platform|$$|Linux armv6l|$$|vendor|$$|Apple Computer, Inc.|$$|block
+platform|$$|Mobile Safari|$$|ua_os|$$|Linux x86_64|$$|block
+platform|$$|Linux armv8l|$$|ua_os|$$|Mac OS X|$$|block
+platform|$$|iPad|$$|ua_os|$$|Android|$$|block
+platform|$$|Chrome Mobile iOS|$$|ua_os|$$|Win32|$$|block
+os_cpu|$$|Linux x86_64|$$|ua_os|$$|Android|$$|block
+os_cpu|$$|Linux x86_64|$$|ua_os|$$|iOS|$$|block
+os_cpu|$$|Windows NT 6.2|$$|ua_os|$$|Mac OS X|$$|block
+os_cpu|$$|Linux x86_64|$$|ua_browser|$$|Chrome Mobile iOS|$$|block
+os_cpu|$$|Linux x86_64|$$|ua_browser|$$|Mobile Safari|$$|block
+os_cpu|$$|Linux x86_64|$$|ua_browser|$$|Chrome Mobile|$$|block
+os_cpu|$$|Linux x86_64|$$|ua_browser|$$|Firefox iOS|$$|block
+platform|$$|armv5tejl|$$|vendor|$$|Apple Computer|$$|block
+platform|$$|aarch64|$$|vendor|$$|Apple Computer|$$|block
+platform|$$|armv6l|$$|vendor|$$|Apple Computer|$$|block
+platform|$$|x86_64|$$|ua_os|$$|Android|$$|block
+platform|$$|armv8l|$$|ua_os|$$|Mac OS|$$|block
+platform|$$|armv7l|$$|vendor_flavors|$$|gCrWeb|$$|block
+platform|$$|armv5tejl|$$|vendor_flavors|$$|gCrWeb|$$|block
+platform|$$|MacIntel|$$|os_cpu|$$|Windows NT|$$|block
+ua_device|$$|SM-T875|$$|color_gamut|$$|p3|$$|block
+ua_device|$$|SM-T875|$$|color_gamut|$$|rec2020|$$|block
+ua_device|$$|Samsung SM-G973F|$$|color_gamut|$$|p3|$$|block
+ua_device|$$|Samsung SM-G973F|$$|color_gamut|$$|rec2020|$$|block
+platform|$$|Win32|$$|vendor|$$|Apple Computer|$$|block
+platform|$$|aarch64|$$|vendor|$$|Apple Computer|$$|block
+platform|$$|MacIntel|$$|vendor|$$|Google Inc|$$|block
+platform|$$|iPad|$$|vendor|$$|Google Inc|$$|block
+platform|$$|armv5tejl|$$|vendor|$$|Apple Computer|$$|block
+platform|$$|armv6l|$$|vendor|$$|Apple Computer|$$|block
+platform|$$|armv7l|$$|vendor|$$|Apple Computer|$$|block
+platform|$$|armv8l|$$|vendor|$$|Apple Computer|$$|block
+platform|$$|Linux x86_64|$$|ua_os|$$|iOS|$$|block
+platform|$$|Linux aarch64|$$|ua_os|$$|iOS|$$|block
+platform|$$|iPad|$$|ua_os|$$|Android|$$|block
+platform|$$|armv8l|$$|ua_browser|$$|Chrome Mobile iOS|$$|block
+plugins|$$|Chrome PDF Viewer|$$|ua_os|$$|Android||$$|block
+plugins|$$|Chrome PDF Viewer|$$|ua_device|$$|Samsung||$$|block
+ua_vendor|$$|Spider|$$|vendor|$$|Google Inc||$$|block
+ua_vendor|$$|Apple|$$|vendor|$$|Google Inc||$$|block
+ua_browser|$$|Firefox|$$|vendor|$$|Google Inc||$$|block
+ua_browser|$$|Safari|$$|vendor|$$|Google Inc||$$|block
+ua_os|$$|Apple Mail|$$|vendor|$$|Google Inc||$$|block
+platform|$$|Linux x86_64|$$|ua_os|$$|Windows||$$|block
+platform|$$|Linux armv8l|$$|ua_os|$$|Windows||$$|block
+platform|$$|armv8l|$$|vendor_flavors|$$|gCrWeb||$$|block
+platform|$$|aarch64|$$|vendor_flavors|$$|gCrWeb||$$|block
+platform|$$|armv7l|$$|vendor_flavors|$$|gCrWeb||$$|block
+ua_browser|$$|Opera|$$|vendor_flavors|$$|gCrWeb||$$|block
+ua_os|$$|Android|$$|touch_support|$$|""||$$|block
+ua_device|$$|M2004J19C|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Samsung SM-A515F|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Samsung SM-A525F|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|M2003J15SC|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|XiaoMi Mi Note 2|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|XiaoMi Redmi Note 8|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|XiaoMi Redmi Note 9 Pro|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Oppo CPH2015|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Samsung SM-A127F|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Samsung SM-A505F|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Oppo CPH2113|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|XiaoMi Redmi Note 8 Pro|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Samsung SM-A217F|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Pixel 2|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|vivo 1919|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|MHA-AL00|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|SM-T220|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|XiaoMi Mi Pad 4 4G|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Samsung SM-P615N|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Samsung SM-G988U|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|SM-T515|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|SM-A125M/DS|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|SM-M127F/DS|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|SM-M205M/DS|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|SM-G985F/DS|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Samsung SM-A115M|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|SM-A725F/DS|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|SM-P610|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Hongmi 4|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|SM-M317F/DS|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|XiaoMi Redmi Note 5|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Samsung SM-P615C|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|Samsung SM-T505C|$$|maxTouchPoints|$$|5|$$|allow
+ua_device|$$|XiaoMi Mi Pad5 Wi-Fi|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|XiaoMi Mi Pad5 Pro Wi-Fi|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|XiaoMi Mi Pad5 Pro 5G|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|XiaoMi Mi Pad4 Wi-Fi|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|Samsung SM-G986U|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-T870|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-T733|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-T970|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|Samsung SM-G991U|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-A217F/DS|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|XiaoMi Mi Pad4 4G|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|Samsung SM-G998U|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|Samsung SM-G996U|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-T510|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|nova 8|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-A125F/DS|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|XiaoMi Mi Pad4 LTE|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-F415F/DS|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-T835|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|Samsung SM-N986U|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|Samsung SM-G998U1|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|Samsung SM-T976B|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-A315G/DS|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-M022G/DS|$$|hw_concurrency|$$|4|$$|allow
+ua_device|$$|Samsung SM-T387W|$$|device_memory|$$|2|$$|allow
+ua_device|$$|Samsung SM-G988U|$$|device_memory|$$|2|$$|block
+ua_device|$$|Samsung SM-G988U|$$|device_memory|$$|4|$$|block
+ua_device|$$|Samsung SM-G988U|$$|device_memory|$$|8|$$|block
+ua_device|$$|Samsung SM-G988U|$$|device_memory|$$|1|$$|block
+ua_device|$$|Samsung SM-G988U|$$|screen_resolution|$$|915x412|$$|block
+ua_device|$$|Samsung SM-G981B|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-T570|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-T830|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|Pixel 4|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|Samsung SM-G986B|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|Samsung SM-G975F|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|Samsung SM-G991B|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-A426B/DS|$$|hw_concurrency|$$|8|$$|allow
+ua_device|$$|SM-G998B/DS|$$|hw_concurrency|$$|8|$$|allow
+platform|$$|Linux x86_64|$$|ua_browser|$$|Mobile Safari|$$|block
+platform|$$|Linux x86_64|$$|ua_browser|$$|Chrome Mobile iOS|$$|block
+platform|$$|Linux x86_64|$$|ua_browser|$$|Firefox iOS|$$|block
+platform|$$|Linux aarch64|$$|ua_browser|$$|Chrome Mobile iOS|$$|block
+platform|$$|Linux armv8l|$$|ua_browser|$$|Chrome Mobile iOS|$$|block
+platform|$$|Linux x86_64|$$|ua_browser|$$|HeadlessChrome|$$|block
+ua_device|$$|Samsung SM-G998B|$$|maxTouchPoints|$$|0|$$|block
+ua_device|$$|Samsung SM-M526B|$$|maxTouchPoints|$$|0|$$|block
+ua_device|$$|Generic Smartphone|$$|maxTouchPoints|$$|0|$$|block
+ua_vendor|$$|Apple|$$|vendor|$$|Google Inc.|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Asia/Shanghai|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Pacific/Auckland|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Europe/London|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Asia/Bangkok|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Asia/Calcutta|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Africa/Cairo|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Asia/Dhaka|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Europe/Paris|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Europe/Berlin|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Europe/Moscow|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Asia/Krasnoyarsk|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Asia/Tehran|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Asia/Seoul|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Africa/Lagos|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Europe/Istanbul|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Asia/Singapore|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Asia/Tokyo|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Europe/Kiev|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|Africa/Casablanca|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|America/New_York|$$|block
+ip_location|$$|United States of America/California|$$|timezone|$$|America/Chicago|$$|block
+ip_location|$$|United States of America/Florida|$$|timezone|$$|America/Los_Angeles|$$|block
+ip_location|$$|United States of America/Florida|$$|timezone|$$|Pacific/Auckland|$$|block
+ip_location|$$|United States of America/Florida|$$|timezone|$$|Europe/Paris|$$|block
+ip_location|$$|United States of America/Florida|$$|timezone|$$|Asia/Bangkok|$$|block
+ip_location|$$|United States of America/Florida|$$|timezone|$$|Europe/Moscow|$$|block
+ip_location|$$|United States of America/Florida|$$|timezone|$$|Asia/Calcutta|$$|block
+ip_location|$$|United States of America/Florida|$$|timezone|$$|Europe/Berlin|$$|block
+ip_location|$$|United States of America/Florida|$$|timezone|$$|Europe/Istanbul|$$|block
+ip_location|$$|United States of America/Florida|$$|timezone|$$|Asia/Karachi|$$|block
+ip_location|$$|United States of America/Florida|$$|timezone|$$|Europe/London|$$|block
+ip_location|$$|United States of America/Florida|$$|timezone|$$|Asia/Shanghai|$$|block
+ip_location|$$|United States of America/Florida|$$|timezone|$$|Asia/Dhaka|$$|block
+ip_location|$$|Germany/Hessen|$$|timezone|$$|America/Los_Angeles|$$|block
+ip_location|$$|Germany/Hessen|$$|timezone|$$|America/Bahia|$$|block
+ip_location|$$|Germany/Hessen|$$|timezone|$$|America/New_York|$$|block
+ip_location|$$|Germany/Hessen|$$|timezone|$$|America/Sao_Paulo|$$|block
+ip_location|$$|Germany/Hessen|$$|timezone|$$|Asia/Karachi|$$|block
+ip_location|$$|Canada/Quebec|$$|timezone|$$|America/Los_Angeles|$$|block
+ip_location|$$|Canada/Quebec|$$|timezone|$$|America/Sao_Paulo|$$|block
+ip_location|$$|Canada/Quebec|$$|timezone|$$|Asia/Tehran|$$|block
+ip_location|$$|Canada/Quebec|$$|timezone|$$|Asia/Jakarta|$$|block
+ip_location|$$|Canada/Quebec|$$|timezone|$$|Asia/Bangkok|$$|block
+ip_location|$$|Canada/Quebec|$$|timezone|$$|Asia/Dhaka|$$|block
+ip_location|$$|Canada/Quebec|$$|timezone|$$|Europe/Kaliningrad|$$|block
+ip_location|$$|Canada/Quebec|$$|timezone|$$|Pacific/Auckland|$$|block
+ip_location|$$|Canada/Quebec|$$|timezone|$$|Asia/Calcutta|$$|block
+ip_location|$$|Canada/Quebec|$$|timezone|$$|Europe/Kiev|$$|block
+ip_location|$$|Canada/Quebec|$$|timezone|$$|Europe/Moscow|$$|block
+ip_location|$$|Canada/Quebec|$$|timezone|$$|Europe/Paris|$$|block
+ip_location|$$|Canada/Quebec|$$|timezone|$$|Europe/London|$$|block
+ip_location|$$|France/Hauts-de-France|$$|timezone|$$|America/Los_Angeles|$$|block
+ip_location|$$|France/Hauts-de-France|$$|timezone|$$|America/Chicago|$$|block
+ip_location|$$|France/Hauts-de-France|$$|timezone|$$|Europe/London|$$|block
+ip_location|$$|France/Hauts-de-France|$$|timezone|$$|Pacific/Auckland|$$|block
+ip_location|$$|France/Hauts-de-France|$$|timezone|$$|Europe/Istanbul|$$|block
+ip_location|$$|France/Hauts-de-France|$$|timezone|$$|Europe/Moscow|$$|block
+ip_location|$$|France/Hauts-de-France|$$|timezone|$$|Asia/Dubai|$$|block
+ip_location|$$|France/Hauts-de-France|$$|timezone|$$|Asia/Tehran|$$|block
+ip_location|$$|France/Hauts-de-France|$$|timezone|$$|America/Guatemala|$$|block
+ip_location|$$|France/Hauts-de-France|$$|timezone|$$|America/Bogota|$$|block
+ip_location|$$|France/Hauts-de-France|$$|timezone|$$|Europe/Vilnius|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|America/Los_Angeles|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Europe/Moscow|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Pacific/Auckland|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Europe/Berlin|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|America/Mexico_City|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Asia/Singapore|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Asia/Bangkok|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Australia/Sydney|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Europe/London|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Asia/Shanghai|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Europe/Istanbul|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Africa/Casablanca|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Europe/Paris|$$|block
+ip_location|$$|United States of America/New Jersey|$$|timezone|$$|Etc/GMT+12|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|America/Los_Angeles|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|America/Chicago|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Asia/Shanghai|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Pacific/Auckland|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Europe/Budapest|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Asia/Singapore|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Asia/Jerusalem|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|America/New_York|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Europe/Kiev|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Asia/Tomsk|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Asia/Bangkok|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|America/Guatemala|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Asia/Tehran|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Europe/Istanbul|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Asia/Tokyo|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Asia/Dhaka|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Europe/Moscow|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Asia/Ashgabat|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Europe/Bucharest|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Asia/Calcutta|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Africa/Cairo|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Australia/Sydney|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Asia/Jakarta|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Asia/Karachi|$$|block
+ip_location|$$|United Kingdom of Great Britain and Northern Ireland|$$|timezone|$$|Europe/Sofia|$$|block
+platform|$$|Linux x86_64|$$|maxTouchPoints|$$|256|$$|block
+ua_os|$$|Android|$$|maxTouchPoints|$$|256|$$|block
+ua_os|$$|Android|$$|maxTouchPoints|$$|0|$$|block
+touch_support|$$|""|$$|maxTouchPoints|$$|0|$$|allow
+ua_os|$$|Windows|$$|device_memory|$$|-1|$$|block
+ua_os|$$|Android|$$|device_memory|$$|-1|$$|block
+ua_os|$$|Linux|$$|device_memory|$$|-1|$$|block
+ua_device|$$|Samsung SM-G998W|$$|hw_concurrency|$$|12|$$|allow
+ua_device|$$|SM-E625F/DS|$$|hw_concurrency|$$|6|$$|allow
+ua_device|$$|SM-T290|$$|hw_concurrency|$$|4|$$|block
+ua_device|$$|SM-E625F/DS|$$|hw_concurrency|$$|4|$$|block
+ua_device|$$|SM-T860|$$|hw_concurrency|$$|3|$$|block
+ua_device|$$|M2012K11C|$$|hw_concurrency|$$|4|$$|block
+ua_device|$$|Samsung SM-F9160|$$|hw_concurrency|$$|4|$$|block
+ua_device|$$|SM-T975|$$|hw_concurrency|$$|4|$$|block
+ua_device|$$|SM-T290|$$|hw_concurrency|$$|4|$$|block
