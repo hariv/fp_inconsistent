@@ -1,0 +1,6 @@
+psycopg2-binary
+requests
+IP2Location
+hashlib
+asyncio
+minfraud

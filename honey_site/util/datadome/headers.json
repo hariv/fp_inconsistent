@@ -1,0 +1,20 @@
+{
+    "Host" : "Host",
+    "User-Agent" : "UserAgent",
+    "Referer" : "Referer",
+    "Accept" : "Accept",
+    "Accept-Encoding" : "AcceptEncoding",
+    "Accept-Language" : "AcceptLanguage",
+    "Accept-Charset" : "AcceptCharset",
+    "Origin" : "Origin",
+    "X-Forwarded-For" : "XForwardedForIP",
+    "X-Requested-With" : "X-Requested-With",
+    "Connection" : "Connection",
+    "Pragma" : "Pragma",
+    "Cache-Control" : "CacheControl",
+    "Content-Type" : "ContentType",
+    "From" : "From",
+    "X-Real-IP" : "X-Real-IP",
+    "Via" : "Via",
+    "True-Client-IP" : "TrueClientIP"
+}
