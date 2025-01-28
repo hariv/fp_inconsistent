@@ -2,7 +2,7 @@ import os
 import asyncio
 import hashlib
 import psycopg2
-import IP2Location
+import geoip2
 from minfraud import AsyncClient
 
 class Request:    
@@ -12,9 +12,14 @@ class Request:
         self.IP_HEADER = 'X-Forwarded-For'
         self.HEADER_DELIMITER = ': '
         self.TIMEZONE_HEADER = 'Timezone'
-        self.ASN_HEADER = 'ASN'
+        self.ASN_NAME_HEADER = 'ASN_NAME'
+        self.ASN_NUMBER_HEADER = 'ASN_NUMBER'
         self.IP_RISK_HEADER = 'RISK_HEADER'
-        self.ip_db = IP2Location.IP2Location('IP2LocationFile.BIN')
+        self.UNKNOWN_STR = 'unknown'
+        
+        self.location_db = geoip2.database.reader('GeoLite2_location.mmdb')
+        self.asn_db = geoip2.database.reader('GeoLite2_asn.mmdb')
+ 
         self.maxmind_client = AsyncClient(maxmind_id, 'maxmind_key')
         
         
@@ -32,15 +37,26 @@ class Request:
                 break
             
         headers_list[ip_idx] = self.IP_HEADER + self.HEADER_DELIMITER + self.hash_ip(ip_val)
-        
-        ip_record = self.ip_db.get_all(ip_val)
 
-        if hasattr(ip_record, 'timezone'):
+        try:
+            location_response = self.location_db.city(ip_val)
+            asn_response = self.asn_db.asn(ip_val)
             headers_list.insert(0, self.TIMEZONE_HEADER + self.HEADER_DELIMITER +
-                                ip_record.timezone)
+                                location_response.location.time_zone)
+            headers_list.insert(0, self.ASN_NAME_HEADER + self.HEADER_DELIMITER +
+                                asn_response.autonomous_system_organization)
+            headers_list.insert(0, self.ASN_NUMBER_HEADER + self.HEADER_DELIMITER +
+                                asn_response.autonomous_system_number)
 
-        if hasattr(ip_record, 'as_name'):
-            headers_list.insert(0, self.ASN_HEADER + self.HEADER_DELIMITER + ip_record.as_name)
+        except AddressNotFoundError:
+            headers_list.insert(0, self.TIMEZONE_HEADER + self.HEADER_DELIMITER + self.UNKNOWN_STR)
+            headers_list.insert(0, self.ASN_NAME_HEADER + self.HEADER_DELIMITER + self.UNKNOWN_STR)
+            headers_list.insert(0, self.ASN_NUMBER_HEADER + self.HEADER_DELIMITER +
+                                self.UNKNOWN_STR)
+            
+        finally:
+            self.location_db.close()
+            self.asn_db.close()
 
         maxmind_response = await self.maxmind_client.score({'device': {'ip_address': ip_val}})
 

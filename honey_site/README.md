@@ -14,8 +14,8 @@ This repository contains source code to deploy the honey site on heroku.
 
 ### IP Addresses
 - The honey site does not store IP addresses.
-- However, it uses IP2Location to store ASNs and Timezones from IP addresses.
-- Please download `.BIN` files from IP2Location within `util/` and update the placeholder within `util/requests.py`
+- However, it uses GeoLite2 to store ASNs and Timezones from IP addresses.
+- Please download `.mmdb` files from MaxMind within `util/` and update the placeholder within `util/requests.py`
 
 ### Database tables
 Please create the following tables with the described columns:
